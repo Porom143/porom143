@@ -1,7 +1,7 @@
 💻 Self-taught web dev | Learning Cybersecurity & Hacking | Building projects & breaking limits 🚀
 
 👨‍💻 Passionate about building web experiences, breaking boundaries, and exploring the art of ethical hacking.
-
+<!--
 Hi! I'm Parash, a self-driven learner from Bangladesh. Currently growing as a Web Developer (HTML, CSS, JS) while diving deep into Cybersecurity & Ethical Hacking. I host projects on GitHub, learn from every challenge, and build for real-world impact.
 
 🧠 I’m learning:
@@ -21,3 +21,4 @@ Build open-source tools that help people learn & grow
 Launch my own brand of tech-driven small businesses
 Become a Certified Ethical Hacker (CEH)
 Help clients through freelance platforms like Upwork
+-->
